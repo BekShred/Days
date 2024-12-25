@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Days of The Week</langstring>
+          <langstring xml:lang="x-none">Days of The Week v2</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Days_of_The_Week_ORG">
-    <organization identifier="Days_of_The_Week_ORG">
-      <title>Days of The Week</title>
+  <organizations default="Days_of_The_Week_v2_ORG">
+    <organization identifier="Days_of_The_Week_v2_ORG">
+      <title>Days of The Week v2</title>
       <item identifier="Days_of_The_Week_SCO" isvisible="true" identifierref="__6MJE5fs6BFk_RES">
-        <title>Days of The Week</title>
+        <title>Days of The Week v2</title>
       </item>
     </organization>
   </organizations>
@@ -68,10 +68,12 @@
       <file href="mobile/Shape6CnDGtY89Uu.png" />
       <file href="mobile/Shape6d7tvK2wj04.png" />
       <file href="mobile/Shape6cwq2Dhg3qe.png" />
+      <file href="mobile/Shape6FHHp37DjoS.png" />
       <file href="mobile/Shape5v2H56sWDp9.png" />
       <file href="mobile/Shape6iXgYkjT2iC.png" />
       <file href="mobile/Shape6FKuPYT41wz.png" />
       <file href="mobile/Shape664MXbKrhTB.png" />
+      <file href="mobile/Shape67udI3OLo17.png" />
       <file href="mobile/Shape6V8uQrYeBhR.png" />
       <file href="mobile/Shape6KvVmSSpWRi.png" />
       <file href="mobile/Shape5Zf3LRv7ZxZ.png" />
